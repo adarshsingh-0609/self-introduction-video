@@ -1,6 +1,6 @@
 # Self Introduction Video
 
-## Student Details
+## My Details
 - Name: Adarsh Singh
 - Course: B.Tech Computer Science Engineering (AI & ML)
 - Year: 3rd Year
